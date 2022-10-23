@@ -94,7 +94,7 @@
 </script>
 
 <svelte:head>
-	<title>{selected.section.name} / {selected.chapter.name} • Svelte Tutorial</title>
+	<title>Fagdag • {selected.section.name} / {selected.chapter.name} • Svelte Tutorial</title>
 
 	<meta name="twitter:title" content="Svelte tutorial" />
 	<meta name="twitter:description" content="{selected.section.name} / {selected.chapter.name}" />

@@ -33,7 +33,7 @@
 </script>
 
 <svelte:head>
-	<title>{data.example.name} {data.example.name ? '•' : ''} Svelte Examples</title>
+	<title>Fagdag • {data.example.name} {data.example.name ? '•' : ''} Svelte Examples</title>
 
 	<meta name="twitter:title" content="Svelte examples" />
 	<meta name="twitter:description" content="Cybernetically enhanced web apps" />

@@ -1,16 +1,12 @@
 <script>
-	import { Blurb } from '@sveltejs/site-kit';
-	import Supporters from './_components/Supporters/index.svelte';
 	import Hero from './_components/Hero.svelte';
 	import Image from './_components/Image.svelte';
-	import Demo from './_components/Demo.svelte';
-	import WhosUsingSvelte from './_components/WhosUsingSvelte/index.svelte';
 	import Balls from './svelte-balls.png?w=640;1280;2560;3840&format=avif;webp;png&picture';
   import AboutFagdag from './_components/AboutFagdag.svelte';
 </script>
 
 <svelte:head>
-	<title>Svelte • Cybernetically enhanced web apps</title>
+	<title>Sonat fagdag • Svelte</title>
 
 	<meta name="twitter:title" content="Svelte" />
 	<meta name="twitter:description" content="Cybernetically enhanced web apps" />

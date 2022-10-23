@@ -21,7 +21,7 @@
 </script>
 
 <svelte:head>
-	<title>Docs • Svelte</title>
+	<title>Fagdag • Docs • Svelte</title>
 
 	<meta name="twitter:title" content="Svelte docs" />
 	<meta name="twitter:description" content="Complete documentation for Svelte" />

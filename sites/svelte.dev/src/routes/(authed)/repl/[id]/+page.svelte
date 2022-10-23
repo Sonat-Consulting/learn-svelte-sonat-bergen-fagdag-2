@@ -63,7 +63,7 @@
 </script>
 
 <svelte:head>
-	<title>{name} • REPL • Svelte</title>
+	<title>Fagdag • {name} • REPL • Svelte</title>
 
 	<meta name="twitter:title" content="{data.gist.name} • REPL • Svelte" />
 	<meta name="twitter:description" content="Cybernetically enhanced web apps" />
