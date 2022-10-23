@@ -3,7 +3,7 @@
 	import { page, navigating } from '$app/stores';
 	import { Icon, Icons, Nav, NavItem, SkipLink } from '@sveltejs/site-kit';
 	import PreloadingIndicator from '$lib/components/PreloadingIndicator.svelte';
-	import StopWar from './stopwar.svg';
+	import StopWar from './logo-sonat-black.svg';
 </script>
 
 <Icons />
@@ -20,19 +20,12 @@
 			<NavItem href="/docs">Docs</NavItem>
 			<NavItem href="/examples">Examples</NavItem>
 			<NavItem href="/repl">REPL</NavItem>
-			<NavItem href="/blog">Blog</NavItem>
-			<NavItem href="/faq">FAQ</NavItem>
 		</svelte:fragment>
 
 		<svelte:fragment slot="nav-right">
-			<NavItem external="https://kit.svelte.dev">SvelteKit</NavItem>
+			<NavItem external="https://sonat.no">Sonat</NavItem>
 
-			<NavItem external="/chat" title="Discord Chat">
-				<span class="small">Discord</span>
-				<span class="large"><Icon name="message-square" /></span>
-			</NavItem>
-
-			<NavItem external="https://github.com/sveltejs/svelte" title="GitHub Repo">
+			<NavItem external="https://github.com/Sonat-Consulting" title="GitHub Repo">
 				<span class="small">GitHub</span>
 				<span class="large"><Icon name="github" /></span>
 			</NavItem>
