@@ -15,7 +15,6 @@
 		"check:format": "prettier --check . --ignore-path .gitignore --plugin-search-dir=."
 	},
 	"dependencies": {
-		"@supabase/supabase-js": "^1.29.4",
 		"@sveltejs/repl": "workspace:*",
 		"cookie": "^0.4.2",
 		"devalue": "^4.0.0",

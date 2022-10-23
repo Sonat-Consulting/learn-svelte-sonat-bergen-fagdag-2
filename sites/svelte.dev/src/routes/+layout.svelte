@@ -19,7 +19,6 @@
 			<NavItem href="/tutorial">Tutorial</NavItem>
 			<NavItem href="/docs">Docs</NavItem>
 			<NavItem href="/examples">Examples</NavItem>
-			<NavItem href="/repl">REPL</NavItem>
 		</svelte:fragment>
 
 		<svelte:fragment slot="nav-right">
